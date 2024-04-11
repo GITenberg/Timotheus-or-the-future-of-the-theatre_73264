@@ -1,0 +1,35 @@
+_repo: Timotheus-or-the-future-of-the-theatre_73264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dobrée, Bonamy
+    alias: Dobree, Bonamy
+    birthdate: 1891
+    deathdate: 1974
+    gutenberg_agent_id: '57005'
+    url: http://www.gutenberg.org/2009/agents/57005
+    wikipedia: https://en.wikipedia.org/wiki/Bonamy_Dobr%C3%A9e
+description: ''
+gutenberg_issued: '2024-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73264'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uiuo.ark:/13960/t3sv9r84d
+pgterms:marc905: 20221114063437dobre
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Produced by Tim Lindell, Donald Cummings and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: To-day and to-morrow series.
+subjects:
+- !lcsh 'Theater -- Miscellanea'
+- !lcc 'PN'
+- GITenberg
+title: Timotheus; or, the future of the theatre
+url: http://www.gutenberg.org/ebooks/73264
